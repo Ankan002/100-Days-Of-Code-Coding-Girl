@@ -2,7 +2,7 @@
 
 This is the solution repository for the 100 Days of Code by Coding Girl
 
-All the solution in this repository has been written in Python 🔥
+All the solution in this repository has been written in Python 🐍🔥
 
 ## Steps to participate in the challenge
 
